@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "descripcion": "baño",
+    "completada": true
+  },
+  {
+    "id": 2,
+    "descripcion": "caminar",
+    "completada": false
+  },
+  {
+    "id": 3,
+    "descripcion": "leer",
+    "completada": false
+  }
+]
