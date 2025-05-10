@@ -5,3 +5,13 @@ Consigna:
 • Usa el método filter().
 • Usa una función flecha para simplificar el código.
 */
+
+
+let palabras = ["javascript", "html", "css", "nodejs"];
+
+function filtrarPalabrasLargas(palabras, longitud) {
+    return palabras.filter(palabra => palabra.length > longitud);
+}
+
+
+console.log(filtrarPalabrasLargas(palabras, 4)); // Debe devolver ["javascript", "nodejs"]

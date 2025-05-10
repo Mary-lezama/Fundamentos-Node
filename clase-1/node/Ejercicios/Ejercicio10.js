@@ -5,3 +5,12 @@ Consigna:
 • Usa el método split() para separar las palabras.
 • Usa el método reverse() para invertir el array.
 • Usa el método join() para unir las palabras en una nueva cadena*/
+
+let frase = "Aprender a programar es divertido";
+
+function palabrasOrdenInverso(frase) {
+    return frase.split(" ").reverse().join(" ");
+
+}
+
+console.log(palabrasOrdenInverso(frase));
