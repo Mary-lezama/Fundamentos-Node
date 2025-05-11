@@ -35,3 +35,5 @@ estudiantes.push({ nombre: 'Carlos', edad: 23, curso: 'Biología', notas: [8, 7,
 // Mostrar el array actualizado en formato JSON
 console.log('Lista actualizada de estudiantes:');
 console.log(JSON.stringify(estudiantes, null, 2));
+ 
+
