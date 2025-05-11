@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Estudiar Node.js",
+    "descripcion": "Repasar el módulo fs",
+    "estado": "completa"
+  },
+  {
+    "nombre": "Hacer ejercicio",
+    "descripcion": "Caminar 30 minutos",
+    "estado": "pendiente"
+  }
+]
